@@ -411,12 +411,12 @@ Software engineering has always been about managing **complexity** — the tools
 
 ### The Toolbox of the Pre-AI Engineer
 
-- **IDEs** — IntelliJ, VS Code, Eclipse *(autocomplete, syntax highlighting, refactoring)*
-- **Version Control** — Git, SVN *(collaboration & history)*
+- **IDEs** — IntelliJ, VS Code, NeoVim *(autocomplete, syntax highlighting, refactoring)*
+- **Version Control** — Git *(collaboration & history)*
 - **CI/CD Pipelines** — Jenkins, GitHub Actions *(automated builds & deploys)*
 - **Stack Overflow & Documentation** — The primary "knowledge retrieval" system
-- **Linters & Static Analysis** — ESLint, SonarQube *(code quality gates)*
-- **Testing Frameworks** — JUnit, pytest, RSpec *(manual test authoring)*
+- **Linters & Static Analysis** — PyLint, PyRight, Ruff *(code quality gates)*
+- **Testing Frameworks** — JUnit, PyTest, Locust *(manual test authoring)*
 
 <br>
 
